@@ -1,2 +1,2 @@
 # Head-first-java.-My-solutions.
-Мои решения задач.
+Мои решения задач по книге Head first. Java.
